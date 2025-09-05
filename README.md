@@ -1,4 +1,4 @@
-# TÍTULO DO PROJETO
+# PUC Integra: Promovendo Colaboração, Aprendizado e Integração 
 
 `CURSO`
 

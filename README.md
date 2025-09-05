@@ -1,23 +1,25 @@
-# TÍTULO DO PROJETO
+# PUC Integra: Promovendo Colaboração, Aprendizado e Integração
 
-`CURSO`
+Sistemas de Informação
 
-`DISCIPLINA`
+Trabalho Interdisciplinar: Aplicações para Processos de Negócios
 
-`SEMESTRE`
+3° Semestre
 
-Descrever resumidamente, em um ou dois parágrafos, o projeto que está sendo desenvolvido.
+O Projeto "**PUC Integra**", em desenvolvimento pelos alunos do curso de Sistemas de Informação, é uma iniciativa tecnológica inspirada no site "Brainly", que busca promover a interação, o compartilhamento de conhecimento e o apoio mútuo entre alunos, professores e colaboradores da PUC Minas. Tem como objetivo principal, fortalecer a troca de experiências, integrando recursos como caixa de perguntas e respostas, validação de conteúdo e calendário acadêmico. 
 
 ## Integrantes
 
-* Nome completo do aluno 1
-* Nome completo do aluno 2
-* Nome completo do aluno 3
-* Nome completo do aluno 4
+Gabriel Rodrigo dos Santos Miguel,  
+Giovanna Fabíola Vaz,  
+Luiza Rodrigues Vertelo,  
+Mateus de Carvalho Freitas,  
+Ronaldo Pereira de Camargos Júnior
 
 ## Orientador
 
-* Nome completo do professor 1
+* Cleia Marcia Gomes Amaral
+* Gleisson Albergaria Amaral
 
 ## Instruções de utilização
 

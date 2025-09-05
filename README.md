@@ -16,7 +16,7 @@ Luiza Rodrigues Vertelo,
 Mateus de Carvalho Freitas,  
 Ronaldo Pereira de Camargos Júnior
 
-## Orientador
+## Orientadores
 
 * Cleia Marcia Gomes Amaral
 * Gleisson Albergaria Amaral
